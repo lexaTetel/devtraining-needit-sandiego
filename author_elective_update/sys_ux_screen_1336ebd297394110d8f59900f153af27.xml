@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="NeedIt Experience">375acb1a97754110d8f59900f153af79</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Manager variant">d336ebd297394110d8f59900f153af24</macroponent>
+        <macroponent_config/>
+        <name>Manager variant</name>
+        <order>100</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Home">85da8b5a97754110d8f59900f153af0e</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 12:05:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1336ebd297394110d8f59900f153af27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manager variant</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_1336ebd297394110d8f59900f153af27</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 12:05:13</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=1336ebd297394110d8f59900f153af27"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3f9ee777db67b81042b321c4059619be</instance_id>
+        <instance_name>axel4demo</instance_name>
+        <name>sys_ux_screen_1336ebd297394110d8f59900f153af27</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="NeedIt Experience">375acb1a97754110d8f59900f153af79</app_config><description/><event_mappings/><macroponent display_value="Manager variant">d336ebd297394110d8f59900f153af24</macroponent><macroponent_config/><name>Manager variant</name><order>100</order><parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="Home">85da8b5a97754110d8f59900f153af0e</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-23 12:05:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1336ebd297394110d8f59900f153af27</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Manager variant</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_1336ebd297394110d8f59900f153af27</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-23 12:05:13</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=1336ebd297394110d8f59900f153af27"/></record_update>]]></payload>
+        <payload_hash>-873561971</payload_hash>
+        <record_name>Manager variant</record_name>
+        <reverted_from/>
+        <source>6e29475697754110d8f59900f153af29</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 12:05:13</sys_created_on>
+        <sys_id>1336eb5697394110d8f59900f153af54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f26789eab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 12:05:13</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>1b36eb5616394110f1332a901f3ba753</update_guid>
+        <update_guid_history>1b36eb5616394110f1332a901f3ba753:-873561971</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 12:06:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>54cbb5767eb54b2486526ed1a0614304</sys_id>
+        <sys_metadata>1336ebd297394110d8f59900f153af27</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manager variant</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_1336ebd297394110d8f59900f153af27</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_1336ebd297394110d8f59900f153af27">1336eb5697394110d8f59900f153af54</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 12:06:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
